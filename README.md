@@ -1,2 +1,1 @@
-# crosswords!
-documenting the puzzles i've written :)
+a space for documenting the puzzles i've written :)
