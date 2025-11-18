@@ -1,9 +1,9 @@
-a space for documenting the [puzzles i've written](https://liliwilson.github.io/puzzles.html) :)
+A SPACE FOR DOCUMENTING THE [PUZZLES I'VE WRITTEN](HTTPS://LILIWILSON.GITHUB.IO/PUZZLES.HTML) :)
 
-### list of puzzles in this repo
+### LIST OF PUZZLES IN THIS REPO
 
-[enigmatic](https://liliwilson.github.io/crosswords/enigmatic.html) (mini cryptic, dec 2024)
+[ENIGMATIC](HTTPS://LILIWILSON.GITHUB.IO/CROSSWORDS/ENIGMATIC.HTML) (MINI CRYPTIC, DEC 2024)
 
-[turn of phrase](https://liliwilson.github.io/crosswords/turn-of-phrase.html) (themed crossword, aug 2024)
+[TURN OF PHRASE](HTTPS://LILIWILSON.GITHUB.IO/CROSSWORDS/TURN-OF-PHRASE.HTML) (THEMED CROSSWORD, AUG 2024)
 
-[catch my drift](https://liliwilson.github.io/crosswords/catch-my-drift.html) (themed crossword, dec 2023)
+[CATCH MY DRIFT](HTTPS://LILIWILSON.GITHUB.IO/CROSSWORDS/CATCH-MY-DRIFT.HTML) (THEMED CROSSWORD, DEC 2023)
